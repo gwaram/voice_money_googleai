@@ -1,0 +1,7 @@
+{
+  "name": "VoiceMoney - AI 가계부",
+  "description": "음성으로 기록하고 AI가 분석하는 똑똑한 가계부. 감정 분석과 소비 패턴 스펙트럼까지 제공합니다.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
